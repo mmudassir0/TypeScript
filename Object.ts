@@ -53,7 +53,7 @@ const pointNum: point = {
   y: 19,
 };
 
-//readonly
+//readonly  we connot change it
 type User = {
   readonly id: number;
 };

@@ -1,0 +1,7 @@
+tsc --init
+
+tsc --watch OR -w filename   //to get change in file when you change in file and don't run tsc every time
+tsc //to compile all file in the folder
+use include or exclude to add or ignore file or use file option in configuration
+
+"outDir" is use when we want all js file in separate folder
